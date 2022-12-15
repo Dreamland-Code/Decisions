@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c16a3cb5e5b6f44ac5c1829d606e8a, type: 3}
+  m_Name: Section 3
+  m_EditorClassIdentifier: 
+  mainText: 
+  optionsAmount: 0
+  responses: []
+  arrayReferences: 
+  quitButtons: 1
+  chargeAnotherOptions: 0
+  dialogs:
+  - Intento seguir huyendo mientras trato de encontrar una salida.
+  - "\"\xBFPero que mierda?\""
+  - "Muchas m\xE1s de esas cosas empiezan a salir de diferentes direcciones."
+  - Es inutil correr.
+  optionsIndex: 0
+  endGame: 1

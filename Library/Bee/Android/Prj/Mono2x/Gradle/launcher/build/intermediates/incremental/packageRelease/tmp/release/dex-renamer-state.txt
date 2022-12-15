@@ -1,0 +1,4 @@
+#Mon Dec 12 22:01:58 COT 2022
+base.0=C\:\\Users\\Cris\\JuegoTomarDecisiones\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

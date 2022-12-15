@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2c16a3cb5e5b6f44ac5c1829d606e8a, type: 3}
+  m_Name: Section 2
+  m_EditorClassIdentifier: 
+  mainText: 
+  optionsAmount: 0
+  responses: []
+  arrayReferences: 
+  quitButtons: 1
+  chargeAnotherOptions: 0
+  dialogs:
+  - "Intento correr lo m\xE1s r\xE1pido que puedo del lugar, sin embargo esa cosa
+    logra escucharme"
+  - "Por m\xE1s que intento acelerar es mucho m\xE1s r\xE1pido que yo."
+  - "Esto no es posible, no deb\xEDa terminar as\xED"
+  optionsIndex: 3
+  endGame: 0
